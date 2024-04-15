@@ -1,5 +1,5 @@
 # Tullingegymnasium. 
 
-#Mängd matsvinn 
+Mängd matsvinn 
 
 
